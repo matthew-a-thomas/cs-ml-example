@@ -4,7 +4,6 @@
 //*                                                                                       *
 //*****************************************************************************************
 
-using System;
 using Microsoft.ML.Data;
 
 namespace MLExampleML.Model.DataModels
